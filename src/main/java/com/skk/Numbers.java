@@ -9,7 +9,6 @@ import java.util.List;
 import javax.swing.JOptionPane;
 /**
  * 功能：代码统计封装类
-
  */
 public class Numbers {
 	private List<File> javaList = new ArrayList<File>();
